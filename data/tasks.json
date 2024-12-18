@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "Сдать дз по линалу",
+        "description": "Нужно сдать до 20 декабря",
+        "done": true,
+        "priority": "Высокий",
+        "due_date": "20.12.2024"
+    },
+    {
+        "id": 2,
+        "title": "ОРГ",
+        "description": "Надо сделать",
+        "done": false,
+        "priority": "Высокий",
+        "due_date": "20.12.2024"
+    }
+]
